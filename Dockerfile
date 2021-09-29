@@ -1,4 +1,4 @@
-FROM grafana/grafana:5.1.0
+FROM grafana/grafana
 
 ADD start.sh .
 USER root
